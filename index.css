@@ -1,0 +1,12 @@
+.Displaybox {
+    background: black;
+    box-shadow: 0 0 5px 10px black;
+}
+
+.DisplayText{
+    color: whitesmoke;
+}
+
+.button {
+    color: magenta;
+}
